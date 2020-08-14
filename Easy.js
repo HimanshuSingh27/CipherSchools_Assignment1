@@ -1,4 +1,5 @@
-//Q1 Count instances of a character in aString
+console.log("Q1 Count instances of a character in a String Solution ");
+//Q1 Count instances of a character in a String
 
 function charCount(str1,str2)
 {
@@ -15,6 +16,7 @@ console.log(charCount('a','edabit'));
 console.log(charCount('c','Chamber of secrets'));
  console.log(charCount('b','big fat bubble'));
 
+ console.log("Q2 Add up the numbers from a single number Solution ");
 
 //Q2 Add up the numbers from a single number
 
@@ -27,6 +29,10 @@ addUp = number => {
 console.log(addUp(4));
 console.log(addUp(13));
 console.log(addUp(600));
+
+
+
+console.log("Q3 Replace vowel with Another character Solution ");
 
 
 //Q3 Replace vowel with Another character

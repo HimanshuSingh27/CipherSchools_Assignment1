@@ -1,3 +1,4 @@
+console.log("Q1 Reverse Words starting with a Particular letter Solutions");
 //Q1 Reverse Words starting with a Particular letter.
 
 function specialReverse(str,ch){
@@ -24,7 +25,7 @@ specialReverse("first man to walk on the moon",'m');
 specialReverse("peter piper picked pickled peppers",'p');
 
 
-
+console.log("Q2 Hitting the Jackpot Solutions");
 //Q2 Hitting the Jackpot
 
 
@@ -50,8 +51,9 @@ testJackpot(["SS","SS","SS","Ss"]);
 
 
 
+console.log("Q3 Remove Duplicates from an Array Solutions");
 
-//Q3Remove Duplicates from an Array
+//Q3 Remove Duplicates from an Array
 
 function removeDups(arr)
 {

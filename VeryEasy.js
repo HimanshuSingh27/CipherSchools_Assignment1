@@ -1,3 +1,4 @@
+console.log("Q1 Convert Minutes into seconds Solutions");
 //Q1 Convert Minutes into seconds
 function convert(minutes)
 {
@@ -9,8 +10,9 @@ console.log(convert(5));
 convertm = minutes=>minutes*60;
 console.log(convertm(3));
 
+console.log("Q2 Divides Evenly Solutions");
 
-//Q2Divides Evenly
+//Q2 Divides Evenly
 dividesEvenly = (a,b)=> //Arrow Function
 {
     if(a%b == 0)
